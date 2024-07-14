@@ -1,0 +1,7 @@
+venv*
+__pycache__
+.env
+package*
+database/
+post_processing.py
+deployment*
